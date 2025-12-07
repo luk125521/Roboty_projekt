@@ -1,0 +1,33 @@
+running develop
+Removing /home/student/Roboty/Projekt/ros2_ws/install/robot_interface/lib/python3.10/site-packages/robot-interface.egg-link (link to .)
+running egg_info
+writing ../../build/robot_interface/robot_interface.egg-info/PKG-INFO
+writing dependency_links to ../../build/robot_interface/robot_interface.egg-info/dependency_links.txt
+writing entry points to ../../build/robot_interface/robot_interface.egg-info/entry_points.txt
+writing requirements to ../../build/robot_interface/robot_interface.egg-info/requires.txt
+writing top-level names to ../../build/robot_interface/robot_interface.egg-info/top_level.txt
+reading manifest file '../../build/robot_interface/robot_interface.egg-info/SOURCES.txt'
+writing manifest file '../../build/robot_interface/robot_interface.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/student/Roboty/Projekt/ros2_ws/build/robot_interface/build
+creating /home/student/Roboty/Projekt/ros2_ws/build/robot_interface/build/lib
+creating /home/student/Roboty/Projekt/ros2_ws/build/robot_interface/build/lib/robot_interface
+copying robot_interface/__init__.py -> /home/student/Roboty/Projekt/ros2_ws/build/robot_interface/build/lib/robot_interface
+running install
+running install_lib
+creating /home/student/Roboty/Projekt/ros2_ws/install/robot_interface/lib/python3.10/site-packages/robot_interface
+copying /home/student/Roboty/Projekt/ros2_ws/build/robot_interface/build/lib/robot_interface/__init__.py -> /home/student/Roboty/Projekt/ros2_ws/install/robot_interface/lib/python3.10/site-packages/robot_interface
+byte-compiling /home/student/Roboty/Projekt/ros2_ws/install/robot_interface/lib/python3.10/site-packages/robot_interface/__init__.py to __init__.cpython-310.pyc
+running install_data
+copying resource/robot_interface -> /home/student/Roboty/Projekt/ros2_ws/install/robot_interface/share/ament_index/resource_index/packages
+copying package.xml -> /home/student/Roboty/Projekt/ros2_ws/install/robot_interface/share/robot_interface
+copying launch/interface_launch.py -> /home/student/Roboty/Projekt/ros2_ws/install/robot_interface/share/robot_interface/launch
+running install_egg_info
+Copying ../../build/robot_interface/robot_interface.egg-info to /home/student/Roboty/Projekt/ros2_ws/install/robot_interface/lib/python3.10/site-packages/robot_interface-0.0.1-py3.10.egg-info
+running install_scripts
+Installing aruco_detector script to /home/student/Roboty/Projekt/ros2_ws/install/robot_interface/lib/robot_interface
+Installing camera_publisher script to /home/student/Roboty/Projekt/ros2_ws/install/robot_interface/lib/robot_interface
+Installing image_viewer script to /home/student/Roboty/Projekt/ros2_ws/install/robot_interface/lib/robot_interface
+Installing turtle_controller script to /home/student/Roboty/Projekt/ros2_ws/install/robot_interface/lib/robot_interface
+writing list of installed files to '/home/student/Roboty/Projekt/ros2_ws/build/robot_interface/install.log'

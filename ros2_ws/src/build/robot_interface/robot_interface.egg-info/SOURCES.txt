@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+launch/interface_launch.py
+resource/robot_interface
+robot_interface/__init__.py
+robot_interface/aruco_detector.py
+robot_interface/camera_publisher.py
+robot_interface/image_viewer.py
+robot_interface/turtle_controller.py
+robot_interface.egg-info/PKG-INFO
+robot_interface.egg-info/SOURCES.txt
+robot_interface.egg-info/dependency_links.txt
+robot_interface.egg-info/entry_points.txt
+robot_interface.egg-info/requires.txt
+robot_interface.egg-info/top_level.txt
+robot_interface.egg-info/zip-safe

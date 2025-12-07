@@ -1,0 +1,31 @@
+[0.493s] Invoking command in '/home/student/Roboty/Projekt/ros2_ws/src/build/robot_interface': PYTHONPATH=/home/student/Roboty/Projekt/ros2_ws/src/build/robot_interface/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/student/Roboty/Projekt/ros2_ws/src/install/robot_interface/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/student/Roboty/Projekt/ros2_ws/src/build/robot_interface/build --no-deps symlink_data
+[0.721s] running develop
+[0.835s] running egg_info
+[0.836s] creating robot_interface.egg-info
+[0.836s] writing robot_interface.egg-info/PKG-INFO
+[0.836s] writing dependency_links to robot_interface.egg-info/dependency_links.txt
+[0.836s] writing entry points to robot_interface.egg-info/entry_points.txt
+[0.836s] writing requirements to robot_interface.egg-info/requires.txt
+[0.836s] writing top-level names to robot_interface.egg-info/top_level.txt
+[0.836s] writing manifest file 'robot_interface.egg-info/SOURCES.txt'
+[0.838s] reading manifest file 'robot_interface.egg-info/SOURCES.txt'
+[0.838s] writing manifest file 'robot_interface.egg-info/SOURCES.txt'
+[0.839s] running build_ext
+[0.839s] Creating /home/student/Roboty/Projekt/ros2_ws/src/install/robot_interface/lib/python3.10/site-packages/robot-interface.egg-link (link to .)
+[0.840s] Installing aruco_detector script to /home/student/Roboty/Projekt/ros2_ws/src/install/robot_interface/lib/robot_interface
+[0.840s] Installing camera_publisher script to /home/student/Roboty/Projekt/ros2_ws/src/install/robot_interface/lib/robot_interface
+[0.840s] Installing image_viewer script to /home/student/Roboty/Projekt/ros2_ws/src/install/robot_interface/lib/robot_interface
+[0.840s] Installing turtle_controller script to /home/student/Roboty/Projekt/ros2_ws/src/install/robot_interface/lib/robot_interface
+[0.841s] 
+[0.841s] Installed /home/student/Roboty/Projekt/ros2_ws/src/build/robot_interface
+[0.841s] running symlink_data
+[0.841s] creating /home/student/Roboty/Projekt/ros2_ws/src/install/robot_interface/share
+[0.841s] creating /home/student/Roboty/Projekt/ros2_ws/src/install/robot_interface/share/ament_index
+[0.841s] creating /home/student/Roboty/Projekt/ros2_ws/src/install/robot_interface/share/ament_index/resource_index
+[0.841s] creating /home/student/Roboty/Projekt/ros2_ws/src/install/robot_interface/share/ament_index/resource_index/packages
+[0.841s] symbolically linking /home/student/Roboty/Projekt/ros2_ws/src/build/robot_interface/resource/robot_interface -> /home/student/Roboty/Projekt/ros2_ws/src/install/robot_interface/share/ament_index/resource_index/packages
+[0.841s] creating /home/student/Roboty/Projekt/ros2_ws/src/install/robot_interface/share/robot_interface
+[0.841s] symbolically linking /home/student/Roboty/Projekt/ros2_ws/src/build/robot_interface/package.xml -> /home/student/Roboty/Projekt/ros2_ws/src/install/robot_interface/share/robot_interface
+[0.841s] creating /home/student/Roboty/Projekt/ros2_ws/src/install/robot_interface/share/robot_interface/launch
+[0.841s] symbolically linking /home/student/Roboty/Projekt/ros2_ws/src/build/robot_interface/launch/interface_launch.py -> /home/student/Roboty/Projekt/ros2_ws/src/install/robot_interface/share/robot_interface/launch
+[0.868s] Invoked command in '/home/student/Roboty/Projekt/ros2_ws/src/build/robot_interface' returned '0': PYTHONPATH=/home/student/Roboty/Projekt/ros2_ws/src/build/robot_interface/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/student/Roboty/Projekt/ros2_ws/src/install/robot_interface/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/student/Roboty/Projekt/ros2_ws/src/build/robot_interface/build --no-deps symlink_data

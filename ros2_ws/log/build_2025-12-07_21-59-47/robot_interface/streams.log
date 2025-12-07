@@ -1,0 +1,20 @@
+[0.806s] Invoking command in '/home/student/Roboty/Projekt/ros2_ws/build/robot_interface': PYTHONPATH=/home/student/Roboty/Projekt/ros2_ws/build/robot_interface/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/student/Roboty/Projekt/ros2_ws/install/robot_interface/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/student/Roboty/Projekt/ros2_ws/build/robot_interface/build --no-deps symlink_data
+[1.067s] running develop
+[1.232s] running egg_info
+[1.232s] writing robot_interface.egg-info/PKG-INFO
+[1.232s] writing dependency_links to robot_interface.egg-info/dependency_links.txt
+[1.232s] writing entry points to robot_interface.egg-info/entry_points.txt
+[1.233s] writing requirements to robot_interface.egg-info/requires.txt
+[1.233s] writing top-level names to robot_interface.egg-info/top_level.txt
+[1.235s] reading manifest file 'robot_interface.egg-info/SOURCES.txt'
+[1.236s] writing manifest file 'robot_interface.egg-info/SOURCES.txt'
+[1.237s] running build_ext
+[1.237s] Creating /home/student/Roboty/Projekt/ros2_ws/install/robot_interface/lib/python3.10/site-packages/robot-interface.egg-link (link to .)
+[1.238s] Installing aruco_detector script to /home/student/Roboty/Projekt/ros2_ws/install/robot_interface/lib/robot_interface
+[1.238s] Installing camera_publisher script to /home/student/Roboty/Projekt/ros2_ws/install/robot_interface/lib/robot_interface
+[1.245s] Installing image_viewer script to /home/student/Roboty/Projekt/ros2_ws/install/robot_interface/lib/robot_interface
+[1.245s] Installing turtle_controller script to /home/student/Roboty/Projekt/ros2_ws/install/robot_interface/lib/robot_interface
+[1.245s] 
+[1.246s] Installed /home/student/Roboty/Projekt/ros2_ws/build/robot_interface
+[1.246s] running symlink_data
+[1.283s] Invoked command in '/home/student/Roboty/Projekt/ros2_ws/build/robot_interface' returned '0': PYTHONPATH=/home/student/Roboty/Projekt/ros2_ws/build/robot_interface/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/student/Roboty/Projekt/ros2_ws/install/robot_interface/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/student/Roboty/Projekt/ros2_ws/build/robot_interface/build --no-deps symlink_data
